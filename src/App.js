@@ -10,7 +10,10 @@ export default class app extends Component {
 
   render() {
     return(
-      <h1>wow</h1>
+      <div class ="Background">
+        <div class ="Row1"></div>
+        <div class =" Row2"></div>
+      </div>
     )
   }
 }
