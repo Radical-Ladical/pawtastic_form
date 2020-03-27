@@ -1,13 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
+import './components/rename_later.js'
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
+export default class app extends Component {
+ 
 
-    </div>
-  );
+
+
+
+  render() {
+    return(
+      <h1>wow</h1>
+    )
+  }
 }
-
-export default App;
