@@ -8,7 +8,8 @@
 }
 .Row1  {
 flex: 1;
+background: url("./assets/dogbackground.jpg");
 }
 .Row2 {
-flex: 1;
+flex: 2;
 }
