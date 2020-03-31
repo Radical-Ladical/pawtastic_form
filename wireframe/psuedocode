@@ -2,3 +2,12 @@ create basic form page with <divs>
 use if else statements for the options and use an
 onclick event to register the choice. Add inserts 
 to the name box and add submit 
+
+
+
+
+
+
+-----references-----
+
+https://medium.com/front-end-weekly/creating-a-toggle-switch-in-css-2d23e496d035
