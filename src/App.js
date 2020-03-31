@@ -19,7 +19,10 @@ export default class app extends Component {
             <li class="l4">Confirm</li>
           </ul>
         </div>
-        <div class =" Row2">swag</div>
+        <div class =" Row2">
+          <h1 class="h1">Yay, we love dogs!Give us the basics about your pup.</h1>
+          <input></input>
+        </div>
       </div>
     )
   }

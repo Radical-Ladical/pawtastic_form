@@ -4,10 +4,8 @@
   position: absolute;
   left: 200px;
   top: 200px;
-  background-color: red;
   height: 700px;
-  width: 1000px;
-  
+  width: 1000px; 
 }
 .Row1  {
 flex: 40%;
@@ -39,4 +37,9 @@ background-color:tan;
  .l4 {
   position: absolute;
   top: 350px;
+ }
+ .h1 {
+   position:absolute;
+   width: 400px;
+   left: 500px;
  }
