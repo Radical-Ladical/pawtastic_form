@@ -23,6 +23,7 @@ export default class app extends Component {
           <h1 class="h1">Yay, we love dogs!Give us the basics about your pup.</h1>
           <input class="name"></input>
           <input class="breed"></input>
+          <input class="birthday"></input>
         </div>
       </div>
     )

@@ -10,12 +10,10 @@
 .Row1  {
 flex: 40%;
 background: url("./assets/dogbackground.jpg") 30% ;
-
 }
 .Row2 {
 flex: 60%;
-background-color:tan;
-
+background-color:rgb(230, 201, 122);
 }
  .list {
   position: absolute;
@@ -47,4 +45,13 @@ background-color:tan;
    position: absolute;
    top: 200px;
    left: 550px;
+ }
+ .breed {
+   position: absolute;
+   top: 300px;
+   left: 550px;
+ }
+ .birthday {
+   position: relative;
+   top:50px;
  }
