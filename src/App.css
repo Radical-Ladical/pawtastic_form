@@ -53,7 +53,7 @@ background-color:rgb(230, 201, 122);
  }
  .birthday {
    position: relative;
-   top:286px;
+   top:232px;
    left:400px;
  }
  .switch { 
@@ -167,4 +167,9 @@ background-color:rgb(230, 201, 122);
   position: relative;
   top: 262px;
   left: 150px;
+}
+.birthday1 {
+  position: relative;
+  top: 245px;
+  left: 400px;
 }
