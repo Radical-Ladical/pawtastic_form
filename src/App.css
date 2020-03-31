@@ -101,3 +101,32 @@ background-color:rgb(230, 201, 122);
   left: -250px;
   border-radius: 50px;
 }
+.neuter { 
+  position : relative ;
+  display : inline-block;
+  width : 150px;
+  height : 20px;
+  background-color: #eee;
+  left: 100px;
+  top: 400px;
+  border-color: transparent;
+}
+.neuter::after {
+  content: '';
+  position: absolute;
+  width: 75px;
+  height: 18px;
+  background-color: white;
+  top: 1px; 
+  left: 1px;
+  transition: all 0.3s;
+}
+.box:checked + .neuter::after {
+  left : 20px; 
+}
+.box:checked + .neuter {
+  background-color: #7983ff;
+}
+.box { 
+  display : none;
+}
