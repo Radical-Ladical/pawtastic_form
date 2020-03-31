@@ -27,12 +27,15 @@ export default class app extends Component {
           <input class="breed"/>
           <div class="birthday1">Birthday</div>
           <input class="birthday"/>
+          <div class="gender">Gender</div>
           <input type="checkbox" id="toggle" class="checkbox" />
           <label for="toggle" class="switch">red</label>
           <button class="back" onClick="">Back</button>
           <button class="next" onClick="">Next</button>
+          <div class="spayed">Spayed or Neutered</div>
           <input type="checkbox" id="neut" class="box" />
           <label for="neut" class="neuter">blue</label>
+          <div class="weight">Weight</div>
           <input type="checkbox" id="four" class="for" />
           <label for="four" class="fourth">fourth</label>
         </div>
