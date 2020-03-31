@@ -158,3 +158,8 @@ background-color:rgb(230, 201, 122);
 .for { 
   display : none;
 }
+.name1 {
+  position: relative;
+  top: 180px;
+  left: 150px;
+}

@@ -21,6 +21,7 @@ export default class app extends Component {
         </div>
         <div class =" Row2">
           <h1 class="h1">Yay, we love dogs!Give us the basics about your pup.</h1>
+          <div class="name1">Name</div>
           <input class="name"/>
           <input class="breed"/>
           <input class="birthday"/>
