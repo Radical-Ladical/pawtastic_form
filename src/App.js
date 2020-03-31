@@ -24,6 +24,8 @@ export default class app extends Component {
           <input class="name"></input>
           <input class="breed"></input>
           <input class="birthday"></input>
+          <input type="checkbox" id="toggle" class="checkbox" />
+          <label for="toggle" class="switch">red</label>
         </div>
       </div>
     )
