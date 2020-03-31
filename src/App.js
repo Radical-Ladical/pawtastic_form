@@ -30,6 +30,8 @@ export default class app extends Component {
           <button class="next" onClick="">Next</button>
           <input type="checkbox" id="neut" class="box" />
           <label for="neut" class="neuter">blue</label>
+          <input type="checkbox" id="four" class="for" />
+          <label for="four" class="fourth">fourth</label>
         </div>
       </div>
     )
