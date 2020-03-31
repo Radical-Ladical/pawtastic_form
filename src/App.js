@@ -13,10 +13,10 @@ export default class app extends Component {
       <div class ="Container">
         <div class ="Row1">
           <ul class="list">
-            <li class="l1">s</li>
-            <li class="l2">a</li>
-            <li class="l3">d</li>
-            <li class="l4">f</li>
+            <li class="l1">Human Profile</li>
+            <li class="l2">Pet Basics</li>
+            <li class="l3">Pet Details</li>
+            <li class="l4">Confirm</li>
           </ul>
         </div>
         <div class =" Row2">swag</div>
