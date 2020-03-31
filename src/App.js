@@ -23,6 +23,7 @@ export default class app extends Component {
           <h1 class="h1">Yay, we love dogs!Give us the basics about your pup.</h1>
           <div class="name1">Name</div>
           <input class="name"/>
+          <div class="breed1">Breed</div>
           <input class="breed"/>
           <input class="birthday"/>
           <input type="checkbox" id="toggle" class="checkbox" />
