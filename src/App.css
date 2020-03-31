@@ -16,5 +16,11 @@ background: url("./assets/dogbackground.jpg") 30% ;
 }
 .Row2 {
 flex: 60%;
-background-color: gray;
+background-color:tan;
 }
+ul {
+  list-style-type: none;
+ }
+ .list {
+   justify-content: right;
+ }
