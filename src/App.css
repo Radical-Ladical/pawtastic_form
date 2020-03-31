@@ -53,7 +53,7 @@ background-color:rgb(230, 201, 122);
  }
  .birthday {
    position: relative;
-   top:232px;
+   top:245px;
    left:400px;
  }
  .switch { 
@@ -62,8 +62,8 @@ background-color:rgb(230, 201, 122);
   width : 150px;
   height : 20px;
   background-color: #eee;
-  left: 25px;
-  top: 400px;
+  left: 100px;
+  top: 300px;
   border-color: transparent;
 }
 .switch::after {
@@ -107,7 +107,8 @@ background-color:rgb(230, 201, 122);
   width : 150px;
   height : 20px;
   background-color: #eee;
-  top: 400px;
+  top: 247px;
+  left: 300px;
   border-color: transparent;
 }
 .neuter::after {
@@ -170,6 +171,6 @@ background-color:rgb(230, 201, 122);
 }
 .birthday1 {
   position: relative;
-  top: 245px;
+  top: 230px;
   left: 400px;
 }
