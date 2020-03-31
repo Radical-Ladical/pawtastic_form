@@ -121,7 +121,7 @@ background-color:rgb(230, 201, 122);
   transition: all 0.3s;
 }
 .box:checked + .neuter::after {
-  left : 20px; 
+  left : 73px; 
 }
 .box:checked + .neuter {
   background-color: #7983ff;

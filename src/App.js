@@ -21,9 +21,9 @@ export default class app extends Component {
         </div>
         <div class =" Row2">
           <h1 class="h1">Yay, we love dogs!Give us the basics about your pup.</h1>
-          <input class="name"></input>
-          <input class="breed"></input>
-          <input class="birthday"></input>
+          <input class="name"/>
+          <input class="breed"/>
+          <input class="birthday"/>
           <input type="checkbox" id="toggle" class="checkbox" />
           <label for="toggle" class="switch">red</label>
           <button class="back" onClick="">Back</button>
